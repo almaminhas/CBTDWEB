@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercicio240325</title>
+</head>
+<body>
+  <h1>Davi de Souza Almeida</h1>
+  <h2>Aluno de Analise e Desenvolvimento de Sistemas</h2>
+  <h2>Formações</h2>
+  <p>Ensino Médio Técnico com Administração - Concluido em 2024</p>
+  <p>Curso de Mecânica - Concluido em Julho de 2023</p>
+  <p>Curso de Inglês - Concluído em Dezembro de 2023</p>
+  <ul>
+    <li> <a href="https://www.instagram.com/almnh_/"> Instagram </a> </li>
+    <li> <a href="https://x.com/Adot_inferno"> Twitter/X </a> </li>
+    <li> <a href="https://open.spotify.com/user/ccv900aso9mrxeymdob36kwxr"> Spotify </a> </li>
+    <li> <a href="mailto:davikoda61@gmail.com"> Envie me um e-mail </a></li>
+    <li> <a href="Exercicio240325.pdf" download="Exercicio240325.pdf"> Baixe meu curriculo </a> </li>
+  </ul>
+</body>
+</html>
